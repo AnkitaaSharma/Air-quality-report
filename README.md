@@ -20,12 +20,6 @@ It helps users quickly understand environmental conditions and patterns through 
 * Clean and user-friendly visual layout
 
 ---
-
-## 📊 Dashboard Preview
-
-![Dashboard Screenshot](AQI_dashboard.png)
-
----
 ##  Dataset
 
 The dataset contains air quality measurements such as:
