@@ -21,6 +21,11 @@ It helps users quickly understand environmental conditions and patterns through 
 
 ---
 
+## 📊 Dashboard Preview
+
+![Dashboard Screenshot](AQI_dashboard.png)
+
+---
 ##  Dataset
 
 The dataset contains air quality measurements such as:
